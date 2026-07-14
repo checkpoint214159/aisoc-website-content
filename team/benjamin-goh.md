@@ -1,7 +1,8 @@
 ---
 name: "Benjamin Goh"
 role: "Programmes Head"
-tagline: "who up unbounding their activation functions rn"
+tagline: "who up unbounding their activations rn"
+image: "https://raw.githubusercontent.com/NUSAISoc/aisoc-website-content/refs/heads/main/imgs/benjamin-goh.jpg"
 category: "exco"
 social:
     github: "https://github.com/checkpoint214159"
